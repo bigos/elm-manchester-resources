@@ -47,6 +47,7 @@ Please make pull requests or get in touch to be added as a collaborator.
 ## Videos
 
 - **(New)** [Elm Seeds Series](https://elmseeds.thaterikperson.com/)
+- **(New)** [Toward a Better Front End Architecture: Elm](https://www.youtube.com/watch?v=EDp6UmaA9CM&t=1396s)
 
 
 ## Try Elm
