@@ -2,7 +2,8 @@
 
 ** New project
 
-Create new project in the shell.
+Install https://www.npmjs.com/package/create-elm-app and
+create new project in the shell.
 
 #+BEGIN_EXAMPLE
 create-elm-app begin
